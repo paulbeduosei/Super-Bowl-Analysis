@@ -1,0 +1,13 @@
+Super Bowl Data Analysis
+This project analyzes Super Bowl data using Python and pandas to explore TV viewership trends, game outcomes, and halftime performances.
+Key Features:
+Merges TV viewership data with Super Bowl dates to track trends over the years.
+Visualizes average US viewers for each Super Bowl edition.
+Counts and visualizes games with a large point difference (over 40 points).
+Analyzes halftime show performances to find which musician performed the most songs.
+Tools Used:
+Python, pandas, matplotlib
+Insights:
+Identifies if TV viewership has increased over time.
+Highlights trends in Super Bowl scores.
+Reveals top-performing halftime musicians.
