@@ -1,5 +1,5 @@
 # Super-Bowl-Analysis
-Analysing Superbowl data using Python
+# Analysing Superbowl data using Python
 
 import pandas as pd
 from matplotlib import pyplot as plt
